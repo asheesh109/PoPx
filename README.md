@@ -1,7 +1,7 @@
 # PopX - Modern Authentication Platform
 
 <div align="center">
-  <img src="https://via.placeholder.com/200x200/6366f1/ffffff?text=PopX" alt="PopX Logo" width="120" height="120">
+  
   
   <h3>A sleek, modern authentication platform built with React</h3>
   
